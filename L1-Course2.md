@@ -1,4 +1,4 @@
-# Level 1 - Course 2 (EJS and Node.js)
+# Level 1 - Course 2 (EJS and Node.js Routing)
 
 #### Qualification
 
