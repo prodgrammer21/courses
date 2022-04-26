@@ -1,4 +1,4 @@
-# Level 2 - Course 5 (Vue3.js)
+# Level 2 - Course 5 (Vue3)
 
 #### Qualification
 
@@ -9,7 +9,7 @@
 - Proficient with ES6+ Syntax.
 - Proficient with JS Promises.
 - Familiar with React.js is a plus.
-- Familiar with Vue3.js is a plus.
+- Familiar with Vue3 is a plus.
 
 ---
 
@@ -33,7 +33,7 @@
 
 #### Q4
 
-- Create Todo Vue3 App with Vue3.js.
+- Create Todo Vue3 App with Vue3.
 - Deploy your Vue3 App to Web.
 
 ## Authors
