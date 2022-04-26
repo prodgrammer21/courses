@@ -9,7 +9,7 @@
 - Proficient with ES6+ Syntax.
 - Proficient with JS Promises.
 - Familiar with React.js is a plus.
-- Familiar with Vue3 is a plus.
+- Familiar with Vue.js is a plus.
 
 ---
 
