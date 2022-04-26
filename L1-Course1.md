@@ -1,28 +1,31 @@
-# Course 1
+# Level 1 - Course 1 (HTML5, CSS3 and JS)
 
-#### Week 1
+#### Q1
+
 - HTML5 Introduction.
 - CSS3 Introduction.
 - Setup Tools.
 - HTML5 and CSS3 Activities.
 
-#### Week 2
+#### Q2
+
 - JS Introduction.
 - DOM Manipulation.
-- JS Activities.
+- Hands On Activities.
 - Integrate HTML5 and CSS3 from Week 1.
 
-#### Week 3
+#### Q3
+
 - Sass Introduction.
 - Setup Tools.
 - Layout (Grid / Flex / Position).
 - Animation (Animation / Transition).
-- More HTML5, CSS3 and JS Activities.
+- More Hands On Activities.
 
-#### Week 4
+#### Q4
+
 - Create Parallax Effect on your App.
 - Create Todo App using HTML5, CSS3 and JS.
-
 
 ## Authors
 

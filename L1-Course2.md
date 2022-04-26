@@ -1,6 +1,7 @@
-# Course 2
+# Level 1 - Course 2 (EJS and Node.js)
 
 #### Qualification
+
 - Proficient with HTML5.
 - Proficient with CSS3.
 - Proficient with Sass.
@@ -11,24 +12,26 @@
 
 ---
 
-#### Week 1
+#### Q1
+
 - ES6+ Syntax Introduction.
 - ES6+ Syntax Activities.
 
-#### Week 2
+#### Q2
+
 - Node.js Introduction (For Routing Only).
 - Setup Tools.
-- Node.js Routing Activities.
+- Hands On Activities.
 - EJS Introduction.
 
-#### Week 3
-- EJS and Node.js Activities.
+#### Q3
+
+- Hands On Activities.
 - Create App using EJS and Node.js.
 
-#### Week 4
-- Connect to EJS-Node.js App to some API.
-- Deploy your EJS-Node.js App to the Web.
+#### Q4
 
+- Deploy your EJS-Node App to the Web.
 
 ## Authors
 
