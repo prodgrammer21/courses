@@ -8,7 +8,6 @@
 - Proficient with JS.
 - Proficient with ES6+ Syntax.
 - Proficient with JS Promises.
-- Familiar with React.js is a plus.
 - Familiar with Vue.js is a plus.
 
 ---
@@ -28,7 +27,7 @@
 #### Q3
 
 - Create Reusable Components.
-- React Hooks Life Cycle.
+- State Management.
 - Hands On Activities.
 
 #### Q4
